@@ -18,7 +18,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 `ng new my-app`
 
-`npm install`
+`npm install` 
 
 use    `cd my-app` and `ng serve --open` 
  
@@ -26,7 +26,7 @@ use    `cd my-app` and `ng serve --open`
  
  `ng serve` 
   
-  `npm start`
+  `npm start`这个命令会在“监听”模式下运行TypeScript编译器，当代码变化时，它会自动重新编译。 同时，该命令还会在浏览器中启动该应用，并且当代码变化时刷新浏览器。
 
 ### tips
 
