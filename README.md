@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### usage
 
-请确保你的node 及 npm 版本，本教程的使用 node v6.9.2 
+请确保你的node 及 npm 版本正确（请先在终端/控制台窗口中运行命令 node -v 和 npm -v， 来验证一下你正在运行 node 6.9.x 和 npm 3.x.x 以上的版本。 更老的版本可能会出现错误，更新的版本则没问题。），本教程的使用 node v6.9.2 
 
 `Now using node v6.9.2 (npm v3.10.9)`
 
